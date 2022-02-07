@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.bdf0a5d4.js",
+    "static/media/laptopBody1.png": "/static/media/laptopBody1.2e29f339c28a35b5120f.png",
+    "static/media/laptopBody2.png": "/static/media/laptopBody2.477116159c530914d95d.png",
+    "static/media/laptopBody3.png": "/static/media/laptopBody3.72171e879f8a2008d3b8.png",
+    "static/media/logo.jpg": "/static/media/logo.8c48a253a5e4aa00c5c1.jpg",
+    "static/media/backGroundImage.png": "/static/media/backGroundImage.a757f53562b37ea9a814.png",
+    "index.html": "/index.html",
+    "main.bdf0a5d4.js.map": "/static/js/main.bdf0a5d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.bdf0a5d4.js"
+  ]
+}
